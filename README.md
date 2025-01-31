@@ -8,6 +8,7 @@ Any and all feedback is greatly appreciated.
 ## Supported Environments
 ### OS
 - macOS Sonoma
+- macOS Sequoia
 ### Keyboards
 - 2023 MacBook Pro built-in keyboard (ANSI)
 
