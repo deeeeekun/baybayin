@@ -9,6 +9,7 @@ Any and all feedback is greatly appreciated.
 ### OS
 - macOS Sonoma
 - macOS Sequoia
+- macOS Tahoe
 ### Keyboards
 - 2023 MacBook Pro built-in keyboard (ANSI)
 
